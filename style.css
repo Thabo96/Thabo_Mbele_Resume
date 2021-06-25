@@ -1,12 +1,16 @@
 .body{
-  background-image: url("images/background.jpg") no-repeat center fixed;
-   height: 100%;
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: auto;
+  
 }
 
 .link-up{
     border-radius: 50%;
    
+}
+
+.footer{
+  background: rgb(255, 151, 16);
+}
+
+.education{
+  box-shadow: 2px 3px gray 5px 5px gray, 5px 5px gray ;
 }
