@@ -1,6 +1,5 @@
 .body{
-  
-}
+  background-color: rgb(250, 246, 246)}
 
 .link-up{
     border-radius: 50%;
@@ -11,6 +10,3 @@
   background: rgb(255, 151, 16);
 }
 
-.education{
-  box-shadow: 2px 3px gray 5px 5px gray, 5px 5px gray ;
-}
